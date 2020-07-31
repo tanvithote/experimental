@@ -1,0 +1,15 @@
+card{
+    padding: 20px;    
+}
+.border {
+    border-width: 50px;
+}
+.crd-text {
+    color: black !important;
+}
+.slick-next {
+  color: black !important;
+}
+.btn.btn-primary:hover {
+    background-color: #015685 !important;
+}

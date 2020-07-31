@@ -1,0 +1,112 @@
+.objective{
+    background-color: #0185CF;
+    height: auto;
+    padding: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.obj-text{
+    width:700px;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-weight: 400;
+    color: white;
+}
+@media (max-width: 991px) {
+    .obj-text {
+        width: 500px;
+    }
+    .challenge-text{
+        width: 300px;
+        text-align: left;
+    }
+  }
+.obj-heading{
+    color: white;
+
+}
+.challenge{
+    background-color: #D9D9D9;
+    height: auto;
+    padding: 20px;
+    padding-bottom: 30px;
+    margin:auto;
+    /* display: table-cell; */
+    text-align: center;
+    vertical-align: middle;
+}
+.vertical-center{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.challenge-text{
+    margin-left: 100px;
+    margin-top: 50px;
+    /* width: 500px; */
+}
+.link-itmes{
+    font-size: 20px;
+}
+.medium-column{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.challenge-heading{
+    color: rgb(40, 102, 76);
+}
+.undergrad-heading{
+    color: rgb(209, 117, 31);
+    padding-bottom: 20px;
+}
+.students-heading{
+    color: #015685;
+    padding-bottom: 20px;
+}
+.professors-heading{
+    color: rgb(40, 102, 76);
+    padding-bottom: 20px;
+}
+.students{
+    background-color: #D9D9D9;
+    height: auto;
+    padding: 20px;
+    padding-bottom: 30px;
+    margin:auto;
+}
+.int-student-items{
+    text-align: left;
+}
+.int-students-list-heading{
+    font-weight: 500;
+
+}
+.professors{
+    background-color: #D9D9D9;
+    height: auto;
+    padding: 20px;
+    padding-bottom: 30px;
+    margin:auto;
+}
+.undergrad{
+    background-color: #D9D9D9;
+    height: auto;
+    padding: 20px;
+    padding-bottom: 30px;
+    margin:auto;
+}
+.industry{
+    background-color: #D9D9D9;
+    height: auto;
+    padding: 20px;
+    padding-bottom: 30px;
+    margin:auto;
+}
+.industry-heading{
+    color: rgb(109, 108, 108);
+    padding-bottom: 20px;
+}

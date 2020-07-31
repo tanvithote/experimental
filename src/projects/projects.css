@@ -1,0 +1,41 @@
+.project-heading {
+    text-align: center;
+    font-size: 45px;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+.custom-container {
+    margin-left: 100px;
+    /* background-color: white; */
+}
+.card-img-top {
+    width: 100%;
+    object-fit: cover;
+}
+.domain-name {
+    font-weight: 500;
+}
+@media (max-width: 991px) {
+    .filter-list {
+        text-align: center;
+    }
+  }
+.btn.btn-primary:hover {
+    border: 2px solid black;
+}
+.filters {
+    color:black;
+    font-weight: 500;
+}
+.active {
+    color: #015685;
+}
+li > a:hover {
+    color: #015685;
+}
+.col-md-4 {
+    padding: 20px;
+}
+.card {
+    padding: 15px;
+}

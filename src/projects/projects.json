@@ -1,0 +1,24 @@
+[
+    {
+        "title":"GTA 5 Car Detection using Convolution Neural Networks",
+        "short-description":"To detect the presence and location of cars in an image using the dataset from GTA 5 game.",
+        "long-description":"Nam a ultrices mauris. Nam efficitur, lorem a vehicula interdum, ligula velit euismod lorem, vitae vehicula ligula tortor eu leo. Maecenas porttitor massa ut vestibulum euismod. Aliquam eget mi aliquam.Lorem ipsum dapibus dolor non, malesuada mauris. Aliquam eleifend mauris non odio mattis auctor. Aenean sit amet elementum tellus, a facilisis ligula. Pellentesque ac vehicula mauris.",
+        "src":"require('../images/Vehicle Classification.jpg')",
+        "domain":"Computer Vision",
+        "students":"Shubham, Aditya",
+        "industry": "DriveBuddy AI",
+        "university": "VIT",
+        "id":"cv1"
+    },
+    {
+        "title":"Fall Detection System",
+        "short-description":"Through our project, we focus on prevention and protection of elderly from the negative effects of falls by timely alerts and reliable surveillance.",
+        "long-description":"Nam a ultrices mauris. Nam efficitur, lorem a vehicula interdum, ligula velit euismod lorem, vitae vehicula ligula tortor eu leo. Maecenas porttitor massa ut vestibulum euismod. Aliquam eget mi aliquam.Lorem ipsum dapibus dolor non, malesuada mauris. Aliquam eleifend mauris non odio mattis auctor. Aenean sit amet elementum tellus, a facilisis ligula. Pellentesque ac vehicula mauris.",
+        "src":"require('../images/Fall Detection.jpg')",
+        "domain":"Computer Vision",
+        "students":"John, Hanna",
+        "industry":"Amazon",
+        "university":"MIT",
+        "id":"cv2"
+    }
+]

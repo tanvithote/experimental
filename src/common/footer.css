@@ -1,0 +1,41 @@
+
+
+.page-footer.dark {
+    background-color: #015685;
+    padding-top: 30px;
+    text-align: center;
+}
+ul {
+    display: inline-block;
+	text-align:center;
+}
+@media screen and (min-width: 576px){
+    .page-footer.dark {
+        text-align: left;
+    }
+    ul {
+        text-align: left;
+    }
+}
+@media screen and (max-width: 576px){
+    ul {
+        list-style: none;
+    }
+}
+
+.footer-copyright {
+        background-color: #016aa3; 
+        text-align: center;    
+      
+}
+.copyright-text {
+    color: #ccc;
+    padding: 15px;
+    font-weight: 500;
+}
+.footer-heading {
+    color: white;
+}
+.footer-link {
+    color: white !important;
+}

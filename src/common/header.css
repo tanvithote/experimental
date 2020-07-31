@@ -1,0 +1,27 @@
+.navbar {
+  background-color: white !important;
+}
+
+.nav-link {
+    font-family: Lato,sans-serif;
+    font-weight: 700;
+    color: black;
+}
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  .navbar-nav > .active > a {
+    color: #38906C;
+  }
+  .nav-item > a:hover {
+    color: #015685;
+  }
+  .dropdown-toggle:hover {
+    color: #015685;
+  }
+  .dropdown-list-item > a {
+    /* font-family: Lato,sans-serif; */
+    font-weight: 700;
+    color: black;
+  }

@@ -1,0 +1,64 @@
+.App {
+    height: auto;
+    padding-bottom: 100px;
+    background-color: #EFEFEF;
+  }
+.App-header {
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    padding-top: 50px;
+    text-align: center;
+    /* width: 900px; */
+    /* background-color: white; */
+  }
+  .check{
+      background-color: white;
+  }
+  .check1{
+      background-color: red;
+  }
+  .contact-us {
+    font-size: 50px;
+  }
+  .sub-title {
+    font-weight: normal;
+    padding-top: 10px;
+  }
+  .contact-container {
+    padding-top: 50px;
+  }
+  
+  .form-row{
+    padding-top: 10px;
+  }
+  input[type=text] {
+    border-color: black;
+    border-radius: 0px;
+    background-color: #EFEFEF;
+  }
+  .message-text {
+    border-color: black !important;
+    border-radius: 0px !important;
+    background-color: #EFEFEF !important;
+    height: 197px;  
+  }
+  input[type=email] {
+    border-color: black;
+    border-radius: 0px;
+    background-color: #EFEFEF;
+  }
+  .submitbutton {
+    background-color: rgb(40, 102, 76); 
+    border: none;
+    color: #EFEFEF;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 50px;
+    width: 100%;
+    box-shadow: 0 5px #999;
+  }

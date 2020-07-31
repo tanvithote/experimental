@@ -1,0 +1,33 @@
+.project-page{
+    background-color: #D9D9D9;
+}
+.portfolio-block {
+    padding-bottom: 60px;
+    padding-top: 60px;
+    height: auto;
+  }
+  .portfolio-block .heading {
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  .image {
+    margin-bottom: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-image: url("../images/Vehicle Classification.jpg")
+  }
+  .project-image {
+    height: 500px;
+  }
+.project-paragaph{
+  font-size: 20px;
+}
+
+
+  
+  
+    
+      
+      
+                        
