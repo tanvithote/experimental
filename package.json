@@ -10,6 +10,7 @@
     "bootstrap": "^4.5.0",
     "bulma-carousel": "^4.0.4",
     "emailjs-com": "^2.6.3",
+    "eslint-module-utils": "^2.6.0",
     "eslint-plugin-import": "^2.22.0",
     "express-favicon": "^2.0.1",
     "jquery": "^3.5.1",
@@ -19,7 +20,7 @@
     "react-icons": "^3.10.0",
     "react-onclickoutside": "^6.9.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "0.9.5",
+    "react-scripts": "^0.9.5",
     "react-slick": "^0.26.1",
     "slick-carousel": "^1.8.1"
   },
