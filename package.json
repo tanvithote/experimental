@@ -2,14 +2,15 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "engines":{
-    "node":"12.13.0",
-    "npm":"4.6.1"
+  "engines": {
+    "node": "12.13.0",
+    "npm": "4.6.1"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
     "bulma-carousel": "^4.0.4",
     "emailjs-com": "^2.6.3",
+    "eslint-plugin-import": "^2.22.0",
     "express-favicon": "^2.0.1",
     "jquery": "^3.5.1",
     "node-sass": "^4.14.1",
